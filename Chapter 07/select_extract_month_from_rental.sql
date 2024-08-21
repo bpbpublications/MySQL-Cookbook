@@ -1,0 +1,1 @@
+SELECT EXTRACT(MONTH FROM rental_date) from rental;

@@ -1,0 +1,1 @@
+INSTALL PLUGIN sha256_password SONAME 'sha256_password';

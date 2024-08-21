@@ -1,0 +1,1 @@
+SELECT web_conf_doc->>'$.logo' AS logo FROM ch13_website_config_json;

@@ -1,0 +1,1 @@
+SELECT JSON_EXTRACT(json_doc, '$.contacts[1]."firstName"') FROM ch13_json;

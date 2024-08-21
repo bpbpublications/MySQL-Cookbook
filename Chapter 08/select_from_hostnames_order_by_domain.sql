@@ -1,0 +1,1 @@
+SELECT * from hostnames order by domain;

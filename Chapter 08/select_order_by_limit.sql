@@ -1,0 +1,1 @@
+SELECT * from customer order by last_name limit 10;

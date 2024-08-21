@@ -1,0 +1,1 @@
+SELECT JSON_TYPE(web_conf_doc) FROM ch13_website_config_json;

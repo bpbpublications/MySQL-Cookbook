@@ -1,0 +1,1 @@
+select * from rental where rental_date > return_date;

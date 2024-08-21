@@ -1,0 +1,1 @@
+SELECT JSON_TYPE(json_doc) FROM ch13_json;

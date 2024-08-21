@@ -1,0 +1,1 @@
+SET GLOBAL validate_password_policy = 2;

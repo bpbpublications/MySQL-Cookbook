@@ -1,0 +1,10 @@
+DELIMITER |
+ALTER EVENT myevent
+    ON SCHEDULE EVERY 5 MINUTE
+    STARTS CURRENT_TIMESTAMP
+	ENDS CURRENT_TIMESTAMP + INTERVAL 1 DAY
+    DO BEGIN
+      SELECT GET_LOCK('lock1',1);      
+      SELECT RELEASE_LOCK('lock1');
+      UPDATE mytable SET mycol = mycol + 1;      
+    END |

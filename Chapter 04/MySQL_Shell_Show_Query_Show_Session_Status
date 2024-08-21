@@ -1,0 +1,1 @@
+\show query show session status like '%nnodb%'

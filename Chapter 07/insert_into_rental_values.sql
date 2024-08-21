@@ -1,0 +1,1 @@
+insert into rental (rental_date, inventory_id, customer_id, staff_id) values ('2023-01-01', 1000, 222, 1);

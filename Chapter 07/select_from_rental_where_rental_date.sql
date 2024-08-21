@@ -1,0 +1,1 @@
+select * FROM rental WHERE rental_date = '2005-05-24';

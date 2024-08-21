@@ -1,0 +1,1 @@
+SELECT email, CAST(email AS BINARY) from staff;

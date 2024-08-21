@@ -1,0 +1,1 @@
+ALTER TABLE supplier RENAME suppliers;

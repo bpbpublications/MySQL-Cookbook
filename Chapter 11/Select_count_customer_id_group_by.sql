@@ -1,0 +1,1 @@
+SELECT count(*) as c, customer_id FROM payment GROUP BY customer_id ORDER BY c desc;

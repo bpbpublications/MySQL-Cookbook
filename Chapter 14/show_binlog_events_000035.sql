@@ -1,0 +1,1 @@
+show binlog events in 'DESKTOP-CCCSUTV-bin.000035';

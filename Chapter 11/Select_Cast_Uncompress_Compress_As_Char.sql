@@ -1,0 +1,1 @@
+SELECT CAST(UNCOMPRESS(COMPRESS('This is a test string.')) AS CHAR);

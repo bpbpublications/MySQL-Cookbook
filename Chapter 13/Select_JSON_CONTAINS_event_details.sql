@@ -1,0 +1,1 @@
+SELECT * FROM events WHERE JSON_CONTAINS(event_details->'$.speakers', '"Elias Negrin"');

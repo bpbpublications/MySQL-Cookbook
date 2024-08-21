@@ -1,0 +1,1 @@
+LOCK TABLES customer READ, supplier READ;

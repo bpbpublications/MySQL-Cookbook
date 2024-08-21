@@ -1,0 +1,1 @@
+select * from rental where customer_id = 222 and rental_date >= '2023-01-01';

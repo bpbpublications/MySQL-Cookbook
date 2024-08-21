@@ -1,0 +1,4 @@
+CREATE EVENT myevent
+    ON SCHEDULE AT CURRENT_TIMESTAMP + INTERVAL 5 MINUTE
+    DO
+      UPDATE mytable SET mycol = mycol + 1;

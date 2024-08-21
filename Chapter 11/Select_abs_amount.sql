@@ -1,0 +1,1 @@
+SELECT amount, ABS(amount), ABS(-amount) FROM payment;

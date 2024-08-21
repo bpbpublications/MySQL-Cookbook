@@ -1,0 +1,1 @@
+SELECT TIME_FORMAT(return_date, "%r") from rental;

@@ -1,0 +1,2 @@
+INSERT INTO events (title, event_details, start_date, end_date)
+VALUES ('Conference', '{"location": "Amsterdam", "speakers": ["Elias Negrin", "Dave Smith"]}', '2024-04-01 09:00:00', '2024-04-02 18:00:00');

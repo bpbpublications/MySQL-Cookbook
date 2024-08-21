@@ -1,0 +1,1 @@
+INSTALL PLUGIN sha256_password SONAME 'auth_sha256.so';

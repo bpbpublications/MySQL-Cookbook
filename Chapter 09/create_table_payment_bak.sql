@@ -1,0 +1,1 @@
+create table payment_bak as select * from payment;

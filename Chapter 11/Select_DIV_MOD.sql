@@ -1,0 +1,1 @@
+SELECT length, length DIV 10, length MOD 10 FROM film;

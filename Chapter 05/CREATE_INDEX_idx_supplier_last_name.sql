@@ -1,0 +1,1 @@
+CREATE INDEX idx_supplier_last_name on supplier (last_name);

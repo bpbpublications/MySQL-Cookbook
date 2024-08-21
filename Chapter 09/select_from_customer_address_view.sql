@@ -1,0 +1,1 @@
+select * from customer_address_view order by postal_code;

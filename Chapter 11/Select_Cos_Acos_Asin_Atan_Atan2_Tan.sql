@@ -1,0 +1,1 @@
+SELECT COS(length), ACOS(length/100), ASIN(length/100), ATAN(length), ATAN2(length), TAN(length) FROM film;

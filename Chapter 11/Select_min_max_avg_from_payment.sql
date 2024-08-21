@@ -1,0 +1,1 @@
+SELECT min(amount), max(amount), avg(amount) FROM payment;

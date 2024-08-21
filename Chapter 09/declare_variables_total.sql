@@ -1,0 +1,1 @@
+DECLARE total DECIMAL(10,2);

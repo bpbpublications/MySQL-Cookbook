@@ -1,0 +1,1 @@
+SELECT CalculateTotalPrice(5, 9.99) AS TotalPrice;

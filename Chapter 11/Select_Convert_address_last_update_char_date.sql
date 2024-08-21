@@ -1,0 +1,1 @@
+SELECT last_update, CONVERT(last_update, CHAR), CONVERT(last_update, DATE) from address;

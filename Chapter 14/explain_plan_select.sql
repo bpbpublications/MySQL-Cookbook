@@ -1,0 +1,1 @@
+EXPLAIN SELECT * FROM myorders t1 WHERE t1.CustomerID >=1;

@@ -1,0 +1,1 @@
+select count(*), city from customer_address_view group by city order by count(*) desc;

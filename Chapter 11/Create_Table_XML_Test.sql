@@ -1,0 +1,1 @@
+CREATE TABLE XML_Test(ID int, XML_CONTENT text); 

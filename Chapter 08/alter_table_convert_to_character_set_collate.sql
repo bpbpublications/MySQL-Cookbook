@@ -1,0 +1,1 @@
+ALTER TABLE customer CONVERT TO CHARACTER SET utf16 COLLATE utf16_general_ci;

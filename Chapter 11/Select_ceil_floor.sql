@@ -1,0 +1,1 @@
+SELECT amount, ceil(amount), floor(amount), ceil(null), floor('') FROM payment;

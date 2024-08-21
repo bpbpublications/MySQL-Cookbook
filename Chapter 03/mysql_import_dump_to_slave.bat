@@ -1,0 +1,1 @@
+mysql -u root -p < "C:\Users\vboxelias\Documents\dumps\dbdump.db" dump

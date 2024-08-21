@@ -1,0 +1,1 @@
+$myconnection = New-Object MySql.Data.MySqlClient.MySqlConnection

@@ -1,0 +1,1 @@
+SELECT * from customer order by last_name collate utf8mb4_0900_ai_ci;

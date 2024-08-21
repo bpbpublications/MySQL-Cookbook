@@ -1,0 +1,1 @@
+INSERT INTO ch12_Sequences1 VALUES ('grp2', last_insert_id(seq_id), 'Some text', 'Some other text');

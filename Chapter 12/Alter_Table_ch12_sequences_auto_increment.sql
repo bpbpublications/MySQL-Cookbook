@@ -1,0 +1,1 @@
+ALTER TABLE ch12_sequences AUTO_INCREMENT = 100;

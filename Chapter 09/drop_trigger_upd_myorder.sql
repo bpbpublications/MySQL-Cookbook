@@ -1,0 +1,1 @@
+DROP TRIGGER upd_myorder; --drop it if exists already

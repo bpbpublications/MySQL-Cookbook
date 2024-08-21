@@ -1,0 +1,1 @@
+CREATE USER '<your username>'@'localhost' IDENTIFIED WITH 'sha256_password' BY 'password';

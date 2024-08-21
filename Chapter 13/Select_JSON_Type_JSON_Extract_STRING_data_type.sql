@@ -1,0 +1,1 @@
+SELECT JSON_TYPE(JSON_EXTRACT(web_conf_doc, '$.homepage.carouselImages[0]')) FROM ch13_website_config_json; 

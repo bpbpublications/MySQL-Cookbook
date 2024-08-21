@@ -1,0 +1,1 @@
+SELECT LOG(amount), LOG10(amount), LOG2(amount) FROM payment;

@@ -1,0 +1,1 @@
+SELECT CAST(concat('{"address":"', address, '"}') AS JSON) from address order by address;

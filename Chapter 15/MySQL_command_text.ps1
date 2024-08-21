@@ -1,0 +1,1 @@
+$mycommand.CommandText = “SELECT mFrom, mTo, mSubject, mBody FROM tbl_system_mail_pickup”

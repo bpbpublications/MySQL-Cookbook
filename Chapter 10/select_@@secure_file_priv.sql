@@ -1,0 +1,1 @@
+SELECT @@secure_file_priv;

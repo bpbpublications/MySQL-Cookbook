@@ -1,0 +1,1 @@
+INSTALL PLUGIN validate_password SONAME 'component_validate_password.dll';

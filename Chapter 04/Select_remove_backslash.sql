@@ -1,0 +1,1 @@
+SELECT 'disappearing\ backslash';

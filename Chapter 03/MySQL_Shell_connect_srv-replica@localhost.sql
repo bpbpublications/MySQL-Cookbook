@@ -1,0 +1,1 @@
+\c srv-replica@localhost:3306

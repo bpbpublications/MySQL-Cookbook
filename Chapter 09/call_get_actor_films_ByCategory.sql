@@ -1,0 +1,1 @@
+CALL Get_Actor_Films_ByCategory(1, 6);

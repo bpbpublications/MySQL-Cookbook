@@ -1,0 +1,1 @@
+UPDATE ch12_sequences SET SEQ_ID = null WHERE SEQ_ID = 101;

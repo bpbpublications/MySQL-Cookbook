@@ -1,0 +1,1 @@
+SELECT * FROM ch13_website_config_json;

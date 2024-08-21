@@ -1,0 +1,1 @@
+SELECT customer_id, sum(amount) FROM payment GROUP BY customer_id;

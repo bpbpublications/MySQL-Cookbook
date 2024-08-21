@@ -1,0 +1,1 @@
+select rental_date, to_days(rental_date), from_days(to_days(rental_date)) from rental;

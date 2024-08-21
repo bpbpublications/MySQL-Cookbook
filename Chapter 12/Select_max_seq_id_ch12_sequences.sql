@@ -1,0 +1,1 @@
+select max(seq_id + 1) from ch12_sequences;

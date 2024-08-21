@@ -1,0 +1,1 @@
+SELECT * from customer order by coalesce(email,'zzz@zzz.zz');

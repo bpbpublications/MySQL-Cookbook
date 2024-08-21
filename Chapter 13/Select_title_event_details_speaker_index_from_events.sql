@@ -1,0 +1,1 @@
+SELECT title, event_details, speaker_index FROM events;

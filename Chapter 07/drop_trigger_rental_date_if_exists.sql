@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS sakila.rental_date;

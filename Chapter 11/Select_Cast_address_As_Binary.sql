@@ -1,0 +1,1 @@
+SELECT address, address2, CAST(address = address2 AS BINARY) from address;

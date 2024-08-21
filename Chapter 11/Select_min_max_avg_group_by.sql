@@ -1,0 +1,1 @@
+SELECT customer_id, min(amount), max(amount), avg(amount) FROM payment GROUP BY customer_id;

@@ -1,0 +1,1 @@
+mysql -u root -p newschema < \Users\Elias\Documents\dumps\dump_file14072023.sql

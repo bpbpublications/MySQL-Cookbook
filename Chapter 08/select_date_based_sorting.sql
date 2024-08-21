@@ -1,0 +1,1 @@
+select * from customer order by create_date desc, last_update desc;

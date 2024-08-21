@@ -1,0 +1,1 @@
+SELECT MD5(address), SHA1(address), SHA2(address, 224) FROM address;

@@ -1,0 +1,1 @@
+SELECT JSON_REPLACE(web_conf_doc, '$.footer."showFooter"[0]', false) FROM ch13_website_config_json;

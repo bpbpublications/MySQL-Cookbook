@@ -1,0 +1,1 @@
+REPAIR TABLE ch12_sequences1;

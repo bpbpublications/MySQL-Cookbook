@@ -1,0 +1,1 @@
+FLUSH TABLES actor, actor_info, address WITH READ LOCK;

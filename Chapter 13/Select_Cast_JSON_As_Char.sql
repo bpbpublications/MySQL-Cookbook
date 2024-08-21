@@ -1,0 +1,1 @@
+SELECT CAST(JSON_EXTRACT(web_conf_doc, '$.logo') AS char) FROM ch13_website_config_json;
