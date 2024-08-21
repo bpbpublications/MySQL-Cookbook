@@ -1,2 +1,2 @@
 # MySQL Cookbook
- MySQLCookbook, by BPB Publications
+ MySQL Cookbook, by BPB Publications
