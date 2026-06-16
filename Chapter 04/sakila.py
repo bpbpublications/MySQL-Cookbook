@@ -12,5 +12,6 @@ def connect ():   return mysql.connector.connect (
 db = db_name,                           
 host = host_name,                           
 user = user_name,                           
-passwd = password
+passwd = password,
+use_pure = True
 )
